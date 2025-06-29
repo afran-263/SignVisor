@@ -3,10 +3,10 @@
 Smart Glass Interface for Real-Time American Sign Language (ASL) Translation
 
 A wearable AI system that translates ASL into text in real-time using computer vision and deep learning.
-# About the Project
+## About the Project
 SignVisor is an AI-powered wearable system designed to bridge the communication gap between the Deaf or Mute and non-sign language users. It uses a smart glass interface with a camera and real-time ASL gesture recognition to convert hand signs into readable text.
 
-# Features
+## Features
 - Live ASL Gesture Detection using OpenCV and Mediapipe
 
 - Dotted & Line Hand Structure for better gesture recognition
@@ -19,7 +19,7 @@ SignVisor is an AI-powered wearable system designed to bridge the communication 
 
 - Web Integration (planned) for browser-based real-time translation
 
-# Tech Stack
+## Tech Stack
 
 - Programming Language: Python
 
